@@ -11,7 +11,7 @@ To simulate digital modulation techniques such as:
 3. Phase Shift Keying (PSK).
 
 # SOFTWARE REQUIRED:
-Google Colab (python)
+Google Colab (python).
 
 ### ALGORITHM
 ## Amplitude Shift Keying (ASK) Algorithm
